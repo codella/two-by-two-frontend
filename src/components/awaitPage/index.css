@@ -1,0 +1,26 @@
+.awaitPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.awaitPage__playersList {
+  max-height: 300px;
+  width: 100%;
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 50px;
+  overflow: scroll;
+}
+
+.awaitPage__gameId {
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.awaitPage__gameId code {
+  font-size: 16px;
+  color: red;
+}

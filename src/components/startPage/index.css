@@ -1,0 +1,30 @@
+.startPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.startPage__nameField {
+  padding: 30px 50px;
+  border: 1px solid black;
+  margin-bottom: 50px;
+}
+
+.startPage input {
+  margin-left: 5px;
+}
+
+.startPage__actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 30px 50px;
+  border: 1px solid black;
+}
+
+.startPage button {
+  margin: 10px 0;
+}

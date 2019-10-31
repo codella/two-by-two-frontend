@@ -1,0 +1,12 @@
+.memoryGame {
+  width: 1024px;
+  height: 768px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 8px;
+  background-color: white;
+  padding: 30px;
+}
