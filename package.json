@@ -11,6 +11,9 @@
     "serve": "^11.2.0",
     "socket.io-client": "^2.3.0"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
